@@ -1,0 +1,47 @@
+{
+  "name": "walmart-esg-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive ESG Dashboard for Walmart Environmental KPIs with Scope 3 Emissions Analysis",
+  "author": "Chagarlamudi Muralidharan",
+  "keywords": [
+    "ESG",
+    "sustainability",
+    "dashboard",
+    "Walmart",
+    "environmental",
+    "scope3",
+    "emissions",
+    "climate",
+    "streamlit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/walmart-esg-dashboard"
+  },
+  "license": "MIT",
+  "python_version": ">=3.8",
+  "framework": "Streamlit",
+  "features": [
+    "Climate & Emissions Tracking",
+    "Renewable Energy Monitoring",
+    "Waste & Circular Economy Metrics",
+    "Nature & Biodiversity Conservation",
+    "Scope 3 Emissions Deep Dive",
+    "Interactive Visualizations",
+    "Goal Progress Tracking",
+    "Multi-year Trend Analysis"
+  ],
+  "data_sources": [
+    "FY2025 Walmart ESG Report",
+    "FY2025 Walmart ESG Data",
+    "2025 CDP Response"
+  ],
+  "deployment_platforms": [
+    "Streamlit Cloud",
+    "Heroku",
+    "Docker",
+    "AWS EC2",
+    "Azure Web Apps",
+    "Google Cloud Run"
+  ]
+}
